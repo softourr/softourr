@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/hhzzk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hhzzk&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,82c3d7,68b6f0,bfe49f&title_color=fff&text_color=fff" alt="hhzzk's github stats" />
+  <a href="https://github.com/hhzzzk">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hhzzzk&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,82c3d7,68b6f0,bfe49f&title_color=fff&text_color=fff" alt="hhzzk's github stats" />
   </a>
-  <a href="https://github.com/hhzzk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzzk&layout=compact&hide_border=true&bg_color=30,68b6f0,82c3d7&title_color=fff&text_color=fff" />
+  <a href="https://github.com/hhzzzk">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzzzk&layout=compact&hide_border=true&bg_color=30,68b6f0,82c3d7&title_color=fff&text_color=fff" />
   </a>
 </p>
 
