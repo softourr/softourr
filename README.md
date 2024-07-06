@@ -9,12 +9,15 @@
 
 </div>
 
-<details>
-  <summary>+</summary>
-  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/hhzzzk?pet-id=586935847131882192&contribution-view=false" width="1000" height="120"/>
-    </a>
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile Green Animate" style="margin-top: 20px;"/>
-  </div>
-</details>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+   
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/hhzzzk?pet-id=597324547508431010&contribution-view=false"
+      width="600"
+      height="120"
+    />
+  </a>
+  
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile Green Animate" style="margin-top: 20px;"/>
+</div>
