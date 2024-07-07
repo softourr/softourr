@@ -1,6 +1,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="50" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%23CEEED1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%23CEEED1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhhzzzk.github.io&count_bg=%23E8F1EF&title_bg=%235F7977&icon=telegram.svg&icon_color=%23E8F1EF&title=blog&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=000000&center=false&vCenter=true&random=false&width=435&lines=Hello+World!" alt="Typing SVG">
