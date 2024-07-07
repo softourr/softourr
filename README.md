@@ -1,11 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%2379C83D&title_bg=%23555555&icon=amazonalexa.svg&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%23CEEED1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=000000&center=false&vCenter=true&random=false&width=435&lines=Hello+World!" alt="Typing SVG">
   </a>
 <!-- https://github.com/DenverCoder1/readme-typing-svg  -->
 
-  <img align="left" src="https://github.com/hhzzzk/hhzzzk/assets/67236054/d7a31e00-75f2-4ace-9f47-5926ed97a40a" width="250">
+  <img align="left" src="https://github.com/hhzzzk/hhzzzk/assets/67236054/d7a31e00-75f2-4ace-9f47-5926ed97a40a" width="300">
 
 
 🌱 I'm interested in `Front-end` development!  
