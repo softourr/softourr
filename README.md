@@ -1,4 +1,5 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="50" />
+<img src="https://github.com/hhzzzk/hhzzzk/assets/67236054/04e792e4-4894-4db7-bbe7-52cf6d47b592" width="50" />
+<!-- slackmojis  -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%23E8F1EF&title_bg=%235F7977&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
