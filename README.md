@@ -1,13 +1,10 @@
-<img src="https://github.com/hhzzzk/hhzzzk/assets/67236054/04e792e4-4894-4db7-bbe7-52cf6d47b592" width="50" />
-<!-- slackmojis  -->
+<img src="https://github.com/user-attachments/assets/82c3ded6-3142-4536-b2c0-8fc79578e4d8" width="50" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%23E8F1EF&title_bg=%235F7977&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=000000&center=false&vCenter=true&random=false&width=435&lines=Hello+World!" alt="Typing SVG">
-  </a>
-<!-- https://github.com/DenverCoder1/readme-typing-svg  -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%230000&title_bg=%23ddddd&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+---
 🌱 I'm interested in `Front-end` development!  
 📫 Major in Computer Science  
 ✨ Currently studying 
@@ -16,12 +13,23 @@
 <img src="https://img.shields.io/badge/React-66CCFF?style=social&logo=React&logoColor=#61DAFB">  
 🧩 [`blog`](https://logventureio.github.io/)
 
-
+---
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
    <!--<img src="./profile-3d-contrib/profile-night-green.svg" alt="Profile Green Animate" style="margin-top: 20px;"/> -->
-  <a href="https://github.com/devxb/gitanimals">
+   
+   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/hhzzzk?pet-id=597324547508431010&contribution-view=false"
+      src="https://render.gitanimals.org/lines/hhzzzk?pet-id=597324547508431010"
+      width="600"
+      height="120"
+    />
+  </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463588" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463589" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463590" width="25%" height="100"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463593"
       width="600"
       height="120"
     />
