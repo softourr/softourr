@@ -4,6 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%230000&title_bg=%23ddddd&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+<a href="#"><img align="right" src="https://github.com/user-attachments/assets/5fe9da4d-db68-45c9-8b9c-1f7962296015" width="300 " height="300" /></a>
+
 ---
 🌱 I'm interested in `Front-end` development!  
 📫 Major in Computer Science  
