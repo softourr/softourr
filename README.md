@@ -17,9 +17,7 @@
 
 ---
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-   <!--<img src="./profile-3d-contrib/profile-night-green.svg" alt="Profile Green Animate" style="margin-top: 20px;"/> -->
-   
-   <a href="https://github.com/devxb/gitanimals">
+    <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/hhzzzk?pet-id=597324547508431010"
       width="600"
@@ -35,5 +33,20 @@
       width="600"
       height="120"
     />
+   <img
+      src="https://render.gitanimals.org/lines/softourr?pet-id=621253017400746038"
+      width="600"
+      height="120"
+    />
   </a>
+</div>
+
+
+<div align="center" >
+<details>
+  <summary>More</summary>
+  
+<img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Green Animate" style="margin-top: 20px;" >
+
+</details>
 </div>
