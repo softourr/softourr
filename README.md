@@ -8,12 +8,15 @@
 
 ---
 🌱 I'm interested in `Front-end` development!  
-📫 Major in Computer Science  
+📫 Major in `KMU Software Engineering Department`  
 ✨ Currently studying 
 <img src="https://img.shields.io/badge/Next.js-66CCFF?style=social&logo=Next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Typescript-66CCFF?style=social&logo=Typescript&logoColor=#3178C6">
-<img src="https://img.shields.io/badge/React-66CCFF?style=social&logo=React&logoColor=#61DAFB">  
-🧩 [`blog`](https://logventureio.github.io/)
+<img src="https://img.shields.io/badge/React-66CCFF?style=social&logo=React&logoColor=#61DAFB">   
+🚙 `Hyundai AutoEver Mobility SW school` ( 24.08 ~ ING )  
+🧩 [`github-blog`](https://logventureio.github.io/)
+
+
 
 ---
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
