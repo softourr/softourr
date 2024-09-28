@@ -13,8 +13,16 @@
 <img src="https://img.shields.io/badge/Next.js-66CCFF?style=social&logo=Next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Typescript-66CCFF?style=social&logo=Typescript&logoColor=#3178C6">
 <img src="https://img.shields.io/badge/React-66CCFF?style=social&logo=React&logoColor=#61DAFB">   
-🚙 `Hyundai AutoEver Mobility SW school` ( 24.08 ~ ING )  
 🧩 [`github-blog`](https://logventureio.github.io/)
+<details>
+  <summary>More</summary>
+    
+#### Experience
+
+🚙 `24.08 ~ ING`  Hyundai AutoEver Mobility SW school 1기
+
+☁️ `24.09 ~ 2024.10` 2024 OSSCA 오픈소스 컨트리뷰션 아카데미 Ant Design Korea 멘티
+</details>
 
 
 
@@ -47,7 +55,7 @@
 
 <div align="center" >
 <details>
-  <summary>More</summary>
+  <summary>etc</summary>
   
 <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Green Animate" style="margin-top: 20px;" >
 
