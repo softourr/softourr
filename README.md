@@ -25,9 +25,26 @@
 </details>
 
 
-
 ---
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center" style="margin-top:180px;">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=gradient&text=🎄%Merry%20Christmas%20🎁&fontColor=aaaaaa&theme=merko&section=header&reversal=false&textBg=false&fontSize=24&animation=twinkling" />
+</div>
+
+<div align="center" style="margin-top:10px;">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/softourr"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
+<!------------------>
+
+<details>
+  <summary>Animal</summary>
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/softourr?pet-id=598065776409047824"
@@ -51,11 +68,11 @@
     />
   </a>
 </div>
+</details>
 
 
-<div align="center" >
 <details>
-  <summary>etc</summary>
+  <summary>Contribution</summary>
   
 <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Green Animate" style="margin-top: 20px;" >
 
