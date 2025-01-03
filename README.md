@@ -27,7 +27,8 @@
 
 ---
 <div align="center" style="margin-top:180px;">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=gradient&text=🎄%Merry%20Christmas%20🎁&fontColor=aaaaaa&theme=merko&section=header&reversal=false&textBg=false&fontSize=24&animation=twinkling" />
+
+
 </div>
 
 <div align="center" style="margin-top:10px;">
