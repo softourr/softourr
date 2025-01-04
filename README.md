@@ -29,25 +29,11 @@
 
 
 ---
-<div align="center" style="margin-top:180px;">
-
-
-</div>
-
-<div align="center" style="margin-top:10px;">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/softourr"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center" style="margin-top:100px;">
 </div>
 
 <!------------------>
 
-<details>
-  <summary>Animal</summary>
   <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/devxb/gitanimals">
     <img
@@ -72,8 +58,6 @@
     />
   </a>
 </div>
-</details>
-
 
 <details>
   <summary>Contribution</summary>
