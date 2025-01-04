@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)
+
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)-->
 
 <a href="#"><img align="right" src="https://i.pinimg.com/originals/a7/ff/34/a7ff3430eeac57123dedd6dbe63ba510.gif" width="300" /></a>
 
