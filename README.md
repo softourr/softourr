@@ -1,9 +1,11 @@
 <img src="https://github.com/user-attachments/assets/82c3ded6-3142-4536-b2c0-8fc79578e4d8" width="50" />
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%230000&title_bg=%23ddddd&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)
+
 <a href="#"><img align="right" src="https://i.pinimg.com/originals/a7/ff/34/a7ff3430eeac57123dedd6dbe63ba510.gif" width="300" /></a>
 
 ---
