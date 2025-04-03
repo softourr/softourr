@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
+## 📩 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)-->
 
