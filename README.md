@@ -6,6 +6,11 @@
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [비동기 개념 이해하기](https://softourr.vercel.app/posts/javascript/%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
+- [&lpar;todo&rpar; 리액트 18의 주요 업데이트   동시성 모드, Automatic Batching 등](https://softourr.vercel.app/posts/react/todo-%EB%A6%AC%EC%95%A1%ED%8A%B8-18%EC%9D%98-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8---%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AA%A8%EB%93%9C-automatic-batching-%EB%93%B1/)
+- [리액트 동시성 모드&lpar;Concurrent Mode&rpar;에 관해서 설명해주세요](https://softourr.vercel.app/posts/feq/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AA%A8%EB%93%9Cconcurrent-mode%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
+- [HTML의 기본 폼 요소 중에서 input 요소의 type 속성에 따라 동작 방식이 어떻게 달라지는지 설명해주세요.](https://softourr.vercel.app/posts/feq/html%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8F%BC-%EC%9A%94%EC%86%8C-%EC%A4%91%EC%97%90%EC%84%9C-input-%EC%9A%94%EC%86%8C%EC%9D%98-type-%EC%86%8D%EC%84%B1%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
+- [Promise의 resolve&lpar;&rpar;와 fulfilled에 대해서 설명해주세요.](https://softourr.vercel.app/posts/feq/promise%EC%9D%98-resolve%EC%99%80-fulfilled%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)-->
