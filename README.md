@@ -15,8 +15,6 @@
 ✨ Currently studying 
 <img src="https://img.shields.io/badge/Next.js-66CCFF?style=social&logo=Next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Typescript-66CCFF?style=social&logo=Typescript&logoColor=#3178C6">
-<img src="https://img.shields.io/badge/React-66CCFF?style=social&logo=React&logoColor=#61DAFB">   
-🧩 [`github-blog`](https://logventureio.github.io/)
 <details>
   <summary>More</summary>
     
