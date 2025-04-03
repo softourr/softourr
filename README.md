@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/82c3ded6-3142-4536-b2c0-8fc79578e4d8" width="50" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhzzzk&count_bg=%230000&title_bg=%23ddddd&icon=github.svg&icon_color=%23E8F1EF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/softourr.svg?view=today-total&label=today&color=97ca00&labelColor=9f9f9f&logo=slug)](https://hits.sh/github.com/softourr/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
