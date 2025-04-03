@@ -13,9 +13,7 @@
 - [Promise의 resolve&lpar;&rpar;와 fulfilled에 대해서 설명해주세요.](https://softourr.vercel.app/posts/feq/promise%EC%9D%98-resolve%EC%99%80-fulfilled%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 <!-- BLOG-POST-LIST:END -->
 
-<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softourr&data=followers,repositories,stars,commits&theme=blueberry_dark)](https://github.com/Jurredr/github-widgetbox)-->
-
-<a href="#"><img align="right" src="https://i.pinimg.com/originals/a7/ff/34/a7ff3430eeac57123dedd6dbe63ba510.gif" width="300" /></a>
+<a href="#"><img align="right" src="https://github.com/user-attachments/assets/5fe9da4d-db68-45c9-8b9c-1f7962296015" width="300 " height="300" /></a>
 
 ---
 🌱 I'm interested in `Front-end` development!  
