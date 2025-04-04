@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/82c3ded6-3142-4536-b2c0-8fc79578e4d8" width="50" />
 
-[![Hits](https://hits.sh/github.com/softourr.svg?view=today-total&label=today&color=c8da8e&labelColor=585858&logo=slug)](https://hits.sh/github.com/softourr/)
+[![Hits](https://hits.sh/github.com/softourr.svg?view=views&label=today&color=c8da8e&labelColor=585858&logo=slug)](https://hits.sh/github.com/softourr/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
