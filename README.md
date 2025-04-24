@@ -6,11 +6,11 @@
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 언어에 대해 설명해주세요.](https://softourr.vercel.app/posts/feq/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [비동기 개념 이해하기](https://softourr.vercel.app/posts/javascript/%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 - [Next.js에서 Incremental Static Regeneration &lpar;ISR&rpar;이 무엇인지 설명해주세요.](https://softourr.vercel.app/posts/feq/nextjs%EC%97%90%EC%84%9C-incremental-static-regeneration-isr%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [Next.js의 CSR, SSR, ISR](https://softourr.vercel.app/posts/next/nextjs%EC%9D%98-csr-ssr-isr/)
 - [읽을거리](https://softourr.vercel.app/posts/cheat-sheet/%EC%9D%BD%EC%9D%84%EA%B1%B0%EB%A6%AC/)
-- [TypeScript에서 유니온 타입과 인터섹션 타입의 차이를 설명해주세요.](https://softourr.vercel.app/posts/feq/typescript%EC%97%90%EC%84%9C-%EC%9C%A0%EB%8B%88%EC%98%A8-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%9D%B8%ED%84%B0%EC%84%B9%EC%85%98-%ED%83%80%EC%9E%85%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="#"><img align="right" src="https://github.com/user-attachments/assets/5fe9da4d-db68-45c9-8b9c-1f7962296015" width="300 " height="300" /></a>
