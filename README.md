@@ -6,11 +6,11 @@
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React의 reconciliation 과정에 대해 설명해 주세요. React가 어떤 방식으로 DOM 업데이트를 최소화하는지 알고 계신가요](https://softourr.vercel.app/posts/feq/react%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94-react%EA%B0%80-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-dom-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%8A%94%EC%A7%80-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%A0%EA%B0%80%EC%9A%94/)
 - [RabbitMQ와 Kafka를 비교했을 때, 두 메시지 큐 시스템 간의 차이점은 무엇인가요](https://softourr.vercel.app/posts/beq/rabbitmq%EC%99%80-kafka%EB%A5%BC-%EB%B9%84%EA%B5%90%ED%96%88%EC%9D%84-%EB%95%8C-%EB%91%90-%EB%A9%94%EC%8B%9C%EC%A7%80-%ED%81%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%84%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94/)
 - [Nginx와 웹서버, WAS](https://softourr.vercel.app/posts/feq/nginx%EC%99%80-%EC%9B%B9%EC%84%9C%EB%B2%84-was/)
 - [자바스크립트 언어에 대해 설명해주세요.](https://softourr.vercel.app/posts/feq/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [비동기 개념 이해하기](https://softourr.vercel.app/posts/javascript/%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
-- [Next.js에서 Incremental Static Regeneration &lpar;ISR&rpar;이 무엇인지 설명해주세요.](https://softourr.vercel.app/posts/feq/nextjs%EC%97%90%EC%84%9C-incremental-static-regeneration-isr%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="#"><img align="right" src="https://github.com/user-attachments/assets/5fe9da4d-db68-45c9-8b9c-1f7962296015" width="300 " height="300" /></a>
