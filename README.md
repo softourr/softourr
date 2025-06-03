@@ -13,6 +13,18 @@
 - [Nginx와 웹서버, WAS](https://softourr.vercel.app/posts/feq/nginx%EC%99%80-%EC%9B%B9%EC%84%9C%EB%B2%84-was/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## 🌿 Latest TIL
+
+<!-- TIL-POST-LIST:START -->
+- React.FC를 피하는 주요 이유들
+- React 컴포지션 패턴 완벽 가이드
+- ✅ 절대 경로 설정 정리
+- ✅ vite-plugin-svgr란?
+- 🌿 Tailwind + Shadcn 스타일 시스템 핵심 정리
+<!-- TIL-POST-LIST:END -->
+
+
 <a href="#"><img align="right" src="https://github.com/user-attachments/assets/5fe9da4d-db68-45c9-8b9c-1f7962296015" width="300 " height="300" /></a>
 
 ---
