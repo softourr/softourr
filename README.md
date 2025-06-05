@@ -17,11 +17,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- Flex 아이템의 min-width와 truncate 문제
 - React.FC를 피하는 주요 이유들
 - React 컴포지션 패턴 완벽 가이드
 - ✅ 절대 경로 설정 정리
 - ✅ vite-plugin-svgr란?
-- 🌿 Tailwind + Shadcn 스타일 시스템 핵심 정리
 <!-- TIL-POST-LIST:END -->
 
 
