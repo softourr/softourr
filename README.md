@@ -17,11 +17,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- nvm 설치, Node.js 버전 관리
+- GitHub SSH 연결 실패 해결하기
 - 🧠 Ollama 요약 정리 (macOS 기반)
 - 📚 React Router "BrowserRouter" vs "RouterProvider"
 - Flex 아이템의 min-width와 truncate 문제
-- React.FC를 피하는 주요 이유들
-- React 컴포지션 패턴 완벽 가이드
 <!-- TIL-POST-LIST:END -->
 
 
