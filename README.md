@@ -17,11 +17,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- 폴리필(Polyfill)이란?
 - nvm 설치, Node.js 버전 관리
 - GitHub SSH 연결 실패 해결하기
 - 🧠 Ollama 요약 정리 (macOS 기반)
 - 📚 React Router "BrowserRouter" vs "RouterProvider"
-- Flex 아이템의 min-width와 truncate 문제
 <!-- TIL-POST-LIST:END -->
 
 
