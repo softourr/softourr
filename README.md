@@ -52,17 +52,17 @@
   <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/softourr?pet-id=598065776409047824"
+      src="https://render.gitanimals.org/lines/softourr?pet-id=724114103837756727"
       width="600"
       height="120"
     />
   </a>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463588" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463589" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463590" width="25%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/softourr?pet-id=692455892450415851" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=715224855775401162" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/softourr?pet-id=718032174628331417" width="25%" height="100"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/softourr?pet-id=616971559092463593"
+      src="https://render.gitanimals.org/lines/softourr?pet-id=706488204110722005"
       width="600"
       height="120"
     />
