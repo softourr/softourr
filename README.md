@@ -33,14 +33,6 @@
 ✨ Currently studying 
 <img src="https://img.shields.io/badge/Next.js-66CCFF?style=social&logo=Next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Typescript-66CCFF?style=social&logo=Typescript&logoColor=#3178C6">
-<details>
-  <summary>More</summary>
-    
-#### Experience
-☁️ `24.09 ~ 24.10` 2024 OSSCA 오픈소스 컨트리뷰션 아카데미 Ant Design Korea 멘티
-
-🚙 `24.08 ~ 25.02`  Hyundai AutoEver Mobility SW school 1기
-</details>
 
 
 ---
