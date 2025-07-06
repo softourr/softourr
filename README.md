@@ -34,6 +34,16 @@
 <img src="https://img.shields.io/badge/Next.js-66CCFF?style=social&logo=Next.js&logoColor=#000000">
 <img src="https://img.shields.io/badge/Typescript-66CCFF?style=social&logo=Typescript&logoColor=#3178C6">
 
+<details>
+  <summary>More</summary>
+
+  <br/>
+  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kccngg)
+
+  <br/>
+
+</details>
 
 ---
 <div align="center" style="margin-top:100px;">
