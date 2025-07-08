@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=softourr&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [React&rpar; 리액트에서 SOLID의 OCP&lpar;Open Closed&rpar; 적용에 대하여](https://softourr.vercel.app/posts/react/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-solid%EC%9D%98-ocpopen-closed-%EC%A0%81%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC/)
