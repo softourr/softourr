@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=eeeeee&width=400&height=30&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=softourr&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
