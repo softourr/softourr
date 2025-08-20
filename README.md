@@ -18,11 +18,10 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- 📹 영상 데이터 2단계 백업 시스템 구축하기
+- React 애니메이션 클로저 이슈 트러블슈팅
+- 📄 Docker 컨테이너 메모리 부족 문제 트러블슈팅
 - PS ) BFS와 DFS 사이의 거리
-- 폴리필(Polyfill)이란?
-- nvm 설치, Node.js 버전 관리
-- GitHub SSH 연결 실패 해결하기
-- 🧠 Ollama 요약 정리 (macOS 기반)
 <!-- TIL-POST-LIST:END -->
 
 
