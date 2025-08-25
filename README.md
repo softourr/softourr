@@ -18,10 +18,10 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- React 프론트엔드 CI/CD 구축 과정
 - 📹 영상 데이터 2단계 백업 시스템 구축하기
 - React 애니메이션 클로저 이슈 트러블슈팅
 - 📄 Docker 컨테이너 메모리 부족 문제 트러블슈팅
-- PS ) BFS와 DFS 사이의 거리
 <!-- TIL-POST-LIST:END -->
 
 
