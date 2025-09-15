@@ -18,6 +18,7 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- Terraform 프로젝트 구성 및 배포 시퀀스
 - React 프론트엔드 CI/CD 구축 과정
 - 📹 영상 데이터 2단계 백업 시스템 구축하기
 - React 애니메이션 클로저 이슈 트러블슈팅
