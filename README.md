@@ -18,11 +18,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- 🌐 DNS 레코드, 이메일 인증과 관련된 핵심 정리
+- 📦 Docker 볼륨(Volume)이란?
 - Terraform 프로젝트 구성 및 배포 시퀀스
 - React 프론트엔드 CI/CD 구축 과정
 - 📹 영상 데이터 2단계 백업 시스템 구축하기
-- React 애니메이션 클로저 이슈 트러블슈팅
-- 📄 Docker 컨테이너 메모리 부족 문제 트러블슈팅
 <!-- TIL-POST-LIST:END -->
 
 
