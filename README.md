@@ -7,11 +7,11 @@
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka is fast   I&#39;ll use Postgres를 읽고](https://softourr.vercel.app/posts/blogging/kafka-is-fast---ill-use-postgres%EB%A5%BC-%EC%9D%BD%EA%B3%A0/)
+- [Node.js는 싱글스레드 서버라는 미신을 읽고](https://softourr.vercel.app/posts/blogging/nodejs%EB%8A%94-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%84%9C%EB%B2%84%EB%9D%BC%EB%8A%94-%EB%AF%B8%EC%8B%A0%EC%9D%84-%EC%9D%BD%EA%B3%A0/)
+- [XSS와 SQL 인젝션](https://softourr.vercel.app/posts/cheat-sheet/xss%EC%99%80-sql-%EC%9D%B8%EC%A0%9D%EC%85%98/)
 - [CommonJS와 ES Module의 차이점에 대해서 설명해주세요](https://softourr.vercel.app/posts/javascript/commonjs%EC%99%80-es-module%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [Next.js의 SSR와 React 19의 RSC 정리](https://softourr.vercel.app/posts/next/nextjs%EC%9D%98-ssr%EC%99%80-react-19%EC%9D%98-rsc-%EC%A0%95%EB%A6%AC/)
-- [React의 Error Boundary는 왜 비동기 에러를 잡지 못하나요](https://softourr.vercel.app/posts/react/react%EC%9D%98-error-boundary%EB%8A%94-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%90%EB%9F%AC%EB%A5%BC-%EC%9E%A1%EC%A7%80-%EB%AA%BB%ED%95%98%EB%82%98%EC%9A%94/)
-- [서버리스 시작할까하니 바로 뜨는 공포 이야기](https://softourr.vercel.app/posts/blogging/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C%ED%95%98%EB%8B%88-%EB%B0%94%EB%A1%9C-%EB%9C%A8%EB%8A%94-%EA%B3%B5%ED%8F%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
-- [Nginx란, 웹서버 개념이해](https://softourr.vercel.app/posts/feq/nginx%EB%9E%80-%EC%9B%B9%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%85%90%EC%9D%B4%ED%95%B4/)
 <!-- BLOG-POST-LIST:END -->
 
 
