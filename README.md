@@ -21,8 +21,6 @@
 - 🍋 Notion 링크 도메인 연결 삽질기 (가비아 → Cloudflare → Fruition)
 - 🌐 DNS 레코드, 이메일 인증과 관련된 핵심 정리
 - 📦 Docker 볼륨(Volume)이란?
-- Terraform 프로젝트 구성 및 배포 시퀀스
-- React 프론트엔드 CI/CD 구축 과정
 <!-- TIL-POST-LIST:END -->
 
 
