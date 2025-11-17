@@ -13,7 +13,7 @@ const cheerio = require("cheerio");
     const $ = cheerio.load(res.data);
     const titles = [];
 
-    $("section.h-entry.protected").each((i, el) => {
+    $("section.h-entry").each((i, el) => {
       if (i < 5) {
         // 최신 5개만
         const title = $(el).find("h2.post_title").text().trim();
