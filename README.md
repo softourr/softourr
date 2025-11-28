@@ -18,11 +18,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- [TIL] DNS 레코드란
+- [TIL] CDK + CloudFormation으로 인프라 프로비저닝 + 배포 자동화
 - [프로그래머스/레벨3] 파괴되지 않은 건물
 - [프로그래머스/레벨4] 가장 큰 삼각형 덩어리
 - [프로그래머스/레벨3] 홀짝트리
-- [프로그래머스/레벨4] 격자 뒤집기 미로
-- 🍋 Notion 링크 도메인 연결 삽질기 (가비아 → Cloudflare → Fruition)
 <!-- TIL-POST-LIST:END -->
 
 
