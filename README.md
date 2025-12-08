@@ -18,11 +18,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- Cloudflare 장애 — 2025-12-05, CVE-2025-55182 관련 영향
+- [TIL] MCP 관련 개념 정리
+- SAM + SSM Parameter Store 502 오류 트러블슈팅
 - [프로그래머스/레벨3] 표 편집
 - API Gateway + Custom Domain 연결 트러블슈팅
-- Google Antigravity(안티그래비티) 후기
-- [TIL] DNS 레코드란
-- [TIL] CDK + CloudFormation으로 인프라 프로비저닝 + 배포 자동화
 <!-- TIL-POST-LIST:END -->
 
 
