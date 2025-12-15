@@ -18,11 +18,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- SSE 인증 트러블슈팅 요약
+- 로컬에서 Refresh Token이 안 넘어온 이유(CORS 이슈)
 - Cloudflare 장애 — 2025-12-05, CVE-2025-55182 관련 영향
 - [TIL] MCP 관련 개념 정리
 - SAM + SSM Parameter Store 502 오류 트러블슈팅
-- [프로그래머스/레벨3] 표 편집
-- API Gateway + Custom Domain 연결 트러블슈팅
 <!-- TIL-POST-LIST:END -->
 
 
