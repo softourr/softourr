@@ -18,11 +18,11 @@
 ## 🌿 Latest TIL
 
 <!-- TIL-POST-LIST:START -->
+- GitKraken으로 갈아타기
+- 크래프톤, 사내 AI 비서 ‘키라’ 오픈소스로 공개
 - SSE 인증 트러블슈팅 요약
 - 로컬에서 Refresh Token이 안 넘어온 이유(CORS 이슈)
 - Cloudflare 장애 — 2025-12-05, CVE-2025-55182 관련 영향
-- [TIL] MCP 관련 개념 정리
-- SAM + SSM Parameter Store 502 오류 트러블슈팅
 <!-- TIL-POST-LIST:END -->
 
 
